@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BusRouteList xmlns="http://www.bus-company.ph">
+<code bus_code="1">
+<route>Ayala-Tanay</route>
+<status>repair</status>
+<schedule>13:00-17:30</schedule>
+<driver>Ping</driver>
+</code>
+</BusRouteList>

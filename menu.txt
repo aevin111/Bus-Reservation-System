@@ -1,0 +1,11 @@
+Welcome to the Company Bus Inventory System!
+
+Choose your option:
+1. Create a new bus record
+2. Check existing bus record
+3. Update bus record
+4. Delete a bus record
+5. Merge two bus records into a file
+6. List all buses
+7. Convert XML to any extension
+8. Quit

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BusRouteList xmlns="http://www.bus-company.ph">
+<code bus_code="15">
+<route>Pasig-Taytay</route>
+<status>Parked</status>
+<schedule>05:00-15:00</schedule>
+<driver>Pong</driver>
+</code>
+</BusRouteList>
